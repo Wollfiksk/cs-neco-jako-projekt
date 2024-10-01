@@ -5,7 +5,11 @@ VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "K-N-P", "Minihry\K-N-P.csproj", "{8386E308-FFEB-40AC-A798-0F3DC385FF95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Piškvorky", "Piškvorky\Piškvorky.csproj", "{C9225873-DBDE-4B09-8F19-4751856B08B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Piškvorky", "Piškvorky\Piškvorky.csproj", "{C9225873-DBDE-4B09-8F19-4751856B08B9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{145980B9-C34F-4C6D-A8A6-1477BDB2A4E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "šibenice", "šibenice\šibenice.csproj", "{858985AE-4159-4A93-82E0-2A5AB9F890DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,10 @@ Global
 		{C9225873-DBDE-4B09-8F19-4751856B08B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9225873-DBDE-4B09-8F19-4751856B08B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9225873-DBDE-4B09-8F19-4751856B08B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{858985AE-4159-4A93-82E0-2A5AB9F890DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{858985AE-4159-4A93-82E0-2A5AB9F890DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{858985AE-4159-4A93-82E0-2A5AB9F890DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{858985AE-4159-4A93-82E0-2A5AB9F890DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
